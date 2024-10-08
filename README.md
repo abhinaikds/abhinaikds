@@ -2,7 +2,7 @@
 
 #### About Me
 
-I'm a paasionate Data Analyst with Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly, MySQL, PostgreSQL, Mongo DB, Beautiful Soup, Flask, Streamlit, tkinter, Statistics, Machine Learning, Power BI, MS Excel skills with 3 years of experience as data analyst, passionate in business insight extraction and presenting it. My repo includes a wide range of projects from simple to medium level projects of Pandas, matlotlib, seaborn, Data cleaning, MysQl, webscraping, flask, power BI and ML.
+Passionate about transforming raw data into actionable business insights, With a solid background in data analysis, business development, and sales, My experience in diverse industries has honed my ability to navigate complex data landscapes and deliver impactful solutions that meet organizational goals, also with 3+ years of experience as data analyst, passionate in business insight extraction and presenting it. My repo includes a wide range of projects from simple to medium level projects of Pandas, matlotlib, seaborn, Data cleaning, MySQL, webscraping, flask, power BI and ML.
 
 ### My Github Stats
 
